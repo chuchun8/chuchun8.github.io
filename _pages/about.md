@@ -31,7 +31,7 @@ redirect_from:
 
 <head>
     <style>
-        .paper-box-image img {width: 300px; height: 200px; object-fit: cover;}
+        .paper-box-image img {width: 300px; height: 200px; object-fit: fill;}
     </style>
 </head>
 
