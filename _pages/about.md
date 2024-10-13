@@ -32,7 +32,7 @@ redirect_from:
 <head>
     <style>
         .paper-box-image {width: 300px; height: 200px; overflow: hidden;}
-        .paper-box-image img {width: 100%; height: 100%; object-fit: fill;}
+        .paper-box-image img {width: 100%; object-fit: fill;}
     </style>
 </head>
 
