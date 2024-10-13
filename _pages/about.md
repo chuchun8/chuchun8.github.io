@@ -80,7 +80,7 @@ ACL 2023.
 
 **Distilling Calibrated Knowledge for Stance Detection.**
 
-**Yingjie Li\***, Cornelia Caragea
+**Yingjie Li**, Cornelia Caragea
 
 ACL 2023 Findings.
 
