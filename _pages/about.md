@@ -169,4 +169,4 @@ EMNLP 2019.
 
 # 📨 Service
 - **Conference Reviewer** : EMNLP 2024, ACL 2024, ICWSM 2024, ISCRAM 2024, EMNLP 2023, ACL 2023, ICWSM 2023, EMNLP 2022, ACL 2022, EMNLP 2021, ACL 2021, SocialNLP 2021, ISCRAM 2019.
-- **Journal Reviewer** : TALLIP.
+- **Journal Reviewer** : TALLIP, IPM.
