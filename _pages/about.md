@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 Two papers are accepted to ACL 2025 (1 main and 1 findings). 
 - *2024.05*: &nbsp;🎉 Two papers are accepted to ACL 2024 (findings). 
 - *2024.03*: &nbsp;🎉 Two papers are accepted to NAACL 2024 (main).
 - *2023.05*: &nbsp;🎉 Three papers are accepted to ACL 2023 (2 main and 1 findings).
