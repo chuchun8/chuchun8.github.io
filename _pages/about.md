@@ -40,6 +40,19 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Task Calibration: Calibrating Large Language Models on Inference Tasks.**
+
+**Yingjie Li**, Yun Luo, Xiaotian Xie, Yue Zhang
+
+ACL 2025 Findings.
+
+[[**Paper**](https://aclanthology.org/2025.findings-acl.362/)] [[**Code**](https://github.com/chuchun8/TaskCalibration)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL2025_tc.png' alt="sym" height="200px" width="300px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection.**
 
 **Yingjie Li**, Yue Zhang
