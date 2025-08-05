@@ -37,7 +37,7 @@ redirect_from:
     </style>
 </head>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="200px" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL2025_tc.png' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Task Calibration: Calibrating Large Language Models on Inference Tasks.**
@@ -50,7 +50,7 @@ ACL 2025 Findings.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL2025_tc.png' alt="sym" height="200px" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024_gender.jpg' alt="sym" height="200px" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection.**
